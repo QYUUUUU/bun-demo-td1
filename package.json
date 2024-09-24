@@ -1,0 +1,15 @@
+{
+  "name": "demo",
+  "module": "/src/index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "scripts": {
+    "start": "bun src/index.ts",
+    "dev": "bun run --hot src/index.ts"
+  }
+}
