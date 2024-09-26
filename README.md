@@ -1,3 +1,5 @@
+Alexandre Choplin
+
 # demo
 
 To install dependencies:
